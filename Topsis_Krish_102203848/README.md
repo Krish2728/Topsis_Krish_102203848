@@ -7,7 +7,7 @@
 Install the package from PyPI using `pip`:
 
 ```bash
-pip install Topsis_Krish_102203848
+pip install Topsis-Krish-102203848
 
 
 Usage
